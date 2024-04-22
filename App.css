@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.UserDropdown {
+  margin-bottom: 20px;
+}
+
+.UserTable {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.UserTable th,
+.UserTable td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.UserTable th {
+  background-color: #f2f2f2;
+}
